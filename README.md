@@ -7,7 +7,7 @@
 
 ## General info
 React TODO List was made to practise React hooks (useState) and props.
-![App Printscreen](./images/printcreen.jpg)
+![App Printscreen](./images/printscreen.jpg)
 
 ## Technologies
 Project is created with:
