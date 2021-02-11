@@ -3,6 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Functionalities](#functionalities)
 
 ## General info
 React TODO List was made to practise React hooks (useState) and props.
@@ -10,7 +11,7 @@ React TODO List was made to practise React hooks (useState) and props.
 
 ## Technologies
 Project is created with:
-* React
+* React.js
 * JSX
 * CSS3
 
